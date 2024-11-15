@@ -1,0 +1,201 @@
+
+[
+  {
+    "id": 1,
+    "name": "Viral Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingType": "Right-Hand Bat",
+    "price": 1500000,
+    "image": "https://imagevars.gulfnews.com/2024/05/23/Royal-Challengers-Bengaluru-s-Virat-Kohli-plays-a-shot-_18fa49ec5b2_large.jpg",
+    "flag": "https://www.worldometers.info/img/flags/in-flag.gif",
+    "rating": "5/5"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Stoinis",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "price": 1300000,
+    "image": "https://images.mykhel.com/webp/images/cricket/players/7/5957.jpg",
+    "flag": "https://www.worldometers.info/img/flags/as-flag.gif",
+    "rating": "4/5"
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand Bat",
+    "price": 1400000,
+    "image": "https://static.independent.co.uk/2023/02/22/12/fb9e60410316c23cf51a05de2f131917Y29udGVudHNlYXJjaGFwaSwxNjc3MTQxNTkw-2.70271186.jpg",
+    "flag": "https://www.worldometers.info/img/flags/uk-flag.gif",
+    "rating": "4.5/5"
+  },
+  {
+    "id": 4,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingType": "Left-Hand Bat",
+    "price": 1200000,
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size50/prd/pki5xe1ulkbpxurjcyhc",
+    "flag": "https://www.worldometers.info/img/flags/nz-flag.gif",
+    "rating": "3.8/5"
+  },
+  {
+    "id": 5,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "battingType": "Left-Hand Bat",
+    "price": 1600000,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ8GsPUFBrQ4ACqXrSL4bRA-5pr_U00mlks-KssUG-51fl4_xr-gN2jKdp3QBxvT7M31DI6wqk1Y5UXT_M",
+    "flag": "https://www.worldometers.info/img/flags/sf-flag.gif",
+    "rating": "4.8/5"
+  },
+  {
+    "id": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingType": "Right-Hand Bat",
+    "price": 1400000,
+    "image": "https://images-cricketcom.imgix.net/news-1722331502112?auto=compress,format&dpr=1&w=976&h400&q=80",
+    "flag": "https://www.worldometers.info/img/flags/af-flag.gif",
+    "rating": "4.6/5"
+  },
+  {
+    "id": 7,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "price": 1450000,
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1bycvGZGwKeshW0wUGZtf--wbm6saDyU6aF4Kq4t8iBSrg9HI",
+    "flag": "https://www.worldometers.info/img/flags/as-flag.gif",
+    "rating": "4.7/5"
+  },
+  {
+    "id": 8,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "price": 1350000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RJBRJe3DY3127psCisMARxwp3-s-4A4q7Q-_dKXVlHRUVufiF6epbPrzYuN-ECMAJ2A&usqp=CAU",
+    "flag": "https://www.worldometers.info/img/flags/nz-flag.gif",
+    "rating": "4.4/5"
+  },
+  {
+    "id": 9,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper",
+    "battingType": "Right-Hand Bat",
+    "price": 1550000,
+    "image": "https://static.independent.co.uk/2022/11/12/07/4a655b514a0538cc8b0bb6e7b1cabefeY29udGVudHNlYXJjaGFwaSwxNjY4MzE5MTg5-2.69703789.jpg",
+    "flag": "https://www.worldometers.info/img/flags/uk-flag.gif",
+    "rating": "4.9/5"
+  },
+  {
+    "id": 10,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingType": "Right-Hand Bat",
+    "price": 1500000,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202404/hardik-pandya-300628682-1x1.jpg?VersionId=aEo2j3maAzpz3IQijOuiGPPUBjGfCqsL",
+    "flag": "https://www.worldometers.info/img/flags/in-flag.gif",
+    "rating": "4.3/5"
+  },
+  {
+    "id": 11,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingType": "Right-Hand Bat",
+    "price": 1350000,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/indias-jasprit-bumrah-245834700-16x9_1.jpg?VersionId=p0cJ1kPm_Sd9OmSffVOF0K_Q2WgWSscL",
+    "flag": "https://www.worldometers.info/img/flags/in-flag.gif",
+    "rating": "4.9/5"
+  },
+  {
+    "id": 12,
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "price": 1400000,
+    "image": "https://cricclubs.com/documentsRep/profilePics/dc0dfce9-7def-4f32-92ed-ed1a2e996e58.jpeg",
+    "flag": "https://www.worldometers.info/img/flags/sf-flag.gif",
+    "rating": "4.2/5"
+  },
+  {
+    "id": 13,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingType": "Left-Hand Bat",
+    "price": 1500000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ECC0/production/_132180606_warnerbody.jpg",
+    "flag": "https://www.worldometers.info/img/flags/as-flag.gif",
+    "rating": "4.5/5"
+  },
+  {
+    "id": 14,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "battingType": "Left-Hand Bat",
+    "price": 1250000,
+    "image": "https://www.pakistantoday.com.pk/wp-content/uploads/2024/07/Downloader.la-6300da6f1d2e7-696x430-1.jpg",
+    "flag": "https://www.worldometers.info/img/flags/pk-flag.gif",
+    "rating": "4.7/5"
+  },
+  {
+    "id": 15,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingType": "Right-Hand Bat",
+    "price": 1550000,
+    "image": "https://crictoday.com/wp-content/uploads/2023/04/Untitled-design.jpg",
+    "flag": "https://www.worldometers.info/img/flags/pk-flag.gif",
+    "rating": "4.8/5"
+  },
+  {
+    "id": 16,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "battingType": "Right-Hand Bat",
+    "price": 1600000,
+    "image": "https://static.toiimg.com/thumb/msid-115234651,width-1280,height-720,imgsize-46222,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "flag": "https://www.worldometers.info/img/flags/jm-flag.gif",
+    "rating": "4.6/5"
+  },
+  {
+    "id": 17,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand Bat",
+    "price": 1300000,
+    "image": "https://images.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/10/03/shakib.jpg",
+    "flag": "https://www.worldometers.info/img/flags/bg-flag.gif",
+    "rating": "4.7/5"
+  },
+  {
+    "id": 18,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "battingType": "Left-Hand Bat",
+    "price": 1150000,
+    "image": "https://api.bdcrictime.com/mustafizur-rahman-15_03_2022.jpg",
+    "flag": "https://www.worldometers.info/img/flags/bg-flag.gif",
+    "rating": "4.3/5"
+  }
+]
