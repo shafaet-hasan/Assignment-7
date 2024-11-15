@@ -1,8 +1,25 @@
-# React + Vite
+# Cricket Team Selection App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React-based web application for selecting and managing a cricket team with a budget, selection limit, and dynamic updates. Built following a Figma design using Tailwind CSS and Daisy UI.
 
-Currently, two official plugins are available:
+## Live Demo
+[Visit the live site](https://luxury-capybara-4b11b4.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Player Selection:** Choose players based on a budget, with validation on budget limits and selection count.
+- **Interactive Tabs:** Toggle between "Available Players" and "Selected Players" tabs.
+- **Dynamic Coins Management:** Add coins to the user's balance and use them to "purchase" players.
+- **Responsive Newsletter & Footer:** Dynamically styled and positioned Newsletter and Footer sections for all devices.
+- **Toast Notifications:** React-Toastify for friendly feedback messages on successful actions or validation errors.
+- **Add More Players Option:** Allows switching back to available players after reaching the selection limit.
+
+## Technology used
+
+- **React** for component-based architecture
+- **Tailwind CSS** & **Daisy UI** for responsive and stylish UI design
+- **React-Toastify** for notifications
+- **JavaScript** for interactivity and functionality
+- **Netlify** for deployment
+
+
